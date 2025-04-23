@@ -1,6 +1,36 @@
-.container .text {
-  background-color: yellow;
-  color: red;
+.para.small-para {
+  color: #000000;
+}
+
+.para {
+  font-size: 22px;
+}
+
+button {
+  background-color: #ffffff;
+  color: #000000;
   font-size: 20px;
-  text-align: center;
+}
+
+div.text {
+  color: #000000;
+  font-weight: 100;
+  font-size: 22px;
+}
+
+.small-para {
+  font-size: 14px;
+  font-weight: 800;
+}
+
+#confirm-button {
+  background: rgb(0, 173, 14);
+  color: #ffffff;
+  font-weight: bold;
+}
+
+div .child {
+  color: #000000;
+  font-weight: bold;
+  font-size: 14px;
 }
